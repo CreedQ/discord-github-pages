@@ -1,2 +1,2 @@
 # discord-github-pages
-Discord inside of GitHub Pages
+Discord wrapped inside of GitHub Pages
